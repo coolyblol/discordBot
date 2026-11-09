@@ -6,7 +6,7 @@ Discord Bots are interactive chat bots in discord that make the platform more en
 
 ## 🌊 Author
 
-- [coolyb.lol](https://discord.com/users/715181893687181423)
+- [coolyblol](https://discord.com/users/715181893687181423)
 
 ---
 
